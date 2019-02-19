@@ -12,6 +12,7 @@ public class HelloWorld {
         float f = 4575f;
         double d = 56778;
         boolean o = true;
-        System.out.println(s+"\n"+l+"\n"+i+"\n"+f+"\n"+d+"\n"+b+"\n"+c+"\n"+o);
+        String S = "This is string";
+        System.out.println(s+"\n"+l+"\n"+i+"\n"+f+"\n"+d+"\n"+b+"\n"+c+"\n"+o+"\n"+S);
     }
 }
