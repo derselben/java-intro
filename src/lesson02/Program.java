@@ -2,7 +2,7 @@ package lesson02;
 
 import java.sql.SQLOutput;
 
-public class main {
+public class Program {
     public static void main(String[] args) {
         Person Vasia = new Person("Vasia", "Petrov", 65);
         Person Petia = new Person("Petia", "Vasiliev", 46);
