@@ -1,7 +1,8 @@
 package lesson01;
 
 public class HelloWorld {
-    public static void main(String[] args) {
+
+    HelloWorld() {
         System.out.println("Hello World!");
         System.out.println("Hello World!\r\nAgain!");
         byte b = 127;
