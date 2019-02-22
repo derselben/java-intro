@@ -1,6 +1,6 @@
 package lesson01;
 
-    public class Program {
+    public class Program01 {
 
         public static void main(String[] args){
             HelloWorld helloWorld = new HelloWorld();
