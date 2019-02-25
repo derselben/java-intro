@@ -7,7 +7,6 @@ public class HomeWorkOnString {
         StringBuilder r = new StringBuilder();
 
         if (n > 0  && s.length() > 0) {
-
             for (int x = 0; x < s.length(); x++) {
                 if (x % n == 0) {
                     r.append(s.charAt(x));
