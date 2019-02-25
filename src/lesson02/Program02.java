@@ -27,6 +27,7 @@ public class Program02 {
         System.out.println(HomeWorkOnString.eachNth("EightCha", 3));
         System.out.println(HomeWorkOnString.eachNth("EightCha", 0));
         System.out.println(HomeWorkOnString.eachNth("EightCha", -2));
+        System.out.println(HomeWorkOnString.eachNth("EightCha", 1));
         System.out.println(HomeWorkOnString.eachNth("", 5));
 
     }
