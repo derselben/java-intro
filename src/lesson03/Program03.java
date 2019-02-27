@@ -1,7 +1,5 @@
 package lesson03;
 
-import lesson02.Engine;
-
 public class Program03 {
     public static void main(String[] args) {
 
@@ -21,7 +19,6 @@ public class Program03 {
         passengerCar.climateStop();
         truck.climateStop();
         truck.stop();
-
 
         /** HOME WORK */
 
