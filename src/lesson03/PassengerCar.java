@@ -1,7 +1,5 @@
 package lesson03;
 
-import lesson02.Climatable;
-import lesson02.Engine;
 import lesson02.Person;
 
 public class PassengerCar extends Car implements Climatable {

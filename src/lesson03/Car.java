@@ -1,7 +1,5 @@
 package lesson03;
 
-import lesson02.Engine;
-
 public abstract class Car {
 
     private String manufacturer;

@@ -7,7 +7,7 @@ public class Person {
     int age;
     private static int count = 0;
 
-    Person(String firstName, String lastName, int age) {
+    public Person(String firstName, String lastName, int age) {
         this.firstName = firstName;
         this.lastName = lastName;
         this.age = age;
