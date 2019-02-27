@@ -22,5 +22,12 @@ public class Program03 {
 
         /** HOME WORK */
 
+        Fibonacci.printFibonacciNumbers(-1);
+        Fibonacci.printFibonacciNumbers(0);
+        Fibonacci.printFibonacciNumbers(1);
+        Fibonacci.printFibonacciNumbers(4);
+        Fibonacci.printFibonacciNumbers(7);
+        Fibonacci.printFibonacciNumbers(70);
+
     }
 }
