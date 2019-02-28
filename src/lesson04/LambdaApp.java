@@ -18,7 +18,7 @@ public class LambdaApp {
             public boolean isEqual(int i) {
                 return false;
             }
-        }); // isOdd
+        }));
 
     }
 
